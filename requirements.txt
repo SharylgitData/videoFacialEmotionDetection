@@ -12,3 +12,13 @@ tensorflow
 tf2onnx
 timm==0.9.*
 torch
+
+streamlit-webrtc 
+av
+
+
+datasets
+faker
+scikit-learn
+seaborn
+opencv-python
